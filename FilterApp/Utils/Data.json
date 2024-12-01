@@ -1,0 +1,940 @@
+
+{
+  "status": true,
+  "data": [
+    {
+      "id": 31,
+      "title": "Start loving your body more",
+      "ju_label": "start-loving-your-body-more",
+      "promo_text": "21 days",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20231208074415.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422051829.webp",
+      "ju_link": null,
+      "problems": [
+        "🌻 Self-love"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 34,
+          "title": "Start loving your body more!",
+          "description": "Improve your self-esteem by changing your relationship with your body!\r\n\r\n👉🏽 Reflect on your relationship with your body\r\n👉🏽 Understand your triggers and thought patterns\r\n👉🏽 Learn to give your body the resources it needs",
+          "num_steps": 21,
+          "day_completed": "no",
+          "completed_steps": 6
+        }
+      ],
+      "details": "v2",
+      "sessions": "21 days",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 85,
+      "title": "Manage anxiety in your life",
+      "ju_label": "manage-anxiety-in-your-life",
+      "promo_text": "7 days",
+      "description": "7-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220404101512.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052101.webp",
+      "ju_link": null,
+      "problems": [
+        "🌻 Self-love"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 87,
+          "title": "Manage anxiety in your life",
+          "description": "Start this journey & manage anxiety better!\r\n\r\n👉🏽Understand ways to build resilience\r\n👉🏽Learn to be more positive & happy\r\n👉🏽Empower yourself with actionable tips",
+          "num_steps": 7,
+          "day_completed": "no",
+          "completed_steps": 1
+        }
+      ],
+      "details": "v2",
+      "sessions": "7 days",
+      "mins": "7-10 mins"
+    },
+    {
+      "id": 50,
+      "title": "Explore your identity",
+      "ju_label": "explore-your-identity",
+      "promo_text": "2 sessions",
+      "description": "10-15 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20221130143926.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422054019.webp",
+      "ju_link": null,
+      "problems": [
+        "🌈 LGBTQIA+"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 52,
+          "title": "🌈 Explore your identity",
+          "description": "As the world moves past stereotypes on gender and sexual identity, we provide you a safe space to understand and explore your own identity!\r\n\r\n👉🏽 Reflect on yourself without judgement\r\n👉🏽 Understand gender and sexuality",
+          "num_steps": 2,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "2 sessions",
+      "mins": "10-15 mins"
+    },
+    {
+      "id": 89,
+      "title": "Accept your authentic self",
+      "ju_label": "accept-your-authentic-self",
+      "promo_text": "2 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20221130143942.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060329.webp",
+      "ju_link": null,
+      "problems": [
+        "🌈 LGBTQIA+"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 91,
+          "title": "🌈 Accept & embrace yourself",
+          "description": "Accepting your own identity and being true to yourself is a key part of your personal growth. In this journey, you will:\r\n\r\n👉🏽 Learn to accept your authentic self with pride\r\n👉🏽 Let go of other people's opinions of you",
+          "num_steps": 2,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "2 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 163,
+      "title": "Navigate life with ADHD",
+      "ju_label": "navigate-life-with-adhd",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20240628080957.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240628080959.webp",
+      "ju_link": null,
+      "problems": [
+        "🧠 Neurodiversity"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 197,
+          "title": "Navigating life with ADHD",
+          "description": "Learn more about how ADHD can affect people & how you can navigate it. In this journey, we will:\r\n\r\n👉🏽 Understand ADHD & its differences\r\n👉🏽 Reflect on your own experiences\r\n👉🏽 Learn actionable self-care techniques",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 1
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 164,
+      "title": "Dating with ADHD",
+      "ju_label": "dating-with-adhd",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20240628113148.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240628113150.webp",
+      "ju_link": null,
+      "problems": [
+        "🧠 Neurodiversity",
+        "❤️ Relationships"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 198,
+          "title": "Dating with ADHD",
+          "description": "Learn more about how ADHD can impact relationships in your life.\r\n\r\n👉🏽 Understand how ADHD is impacting your relationships\r\n👉🏽 Learn ways to strengthen your bond & build resilience",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 21,
+      "title": "Create healthier relationships",
+      "ju_label": "create-healthier-relationships",
+      "promo_text": "3 sessions",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20221130143958.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240416064509.webp",
+      "ju_link": null,
+      "problems": [
+        "❤️ Relationships"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 24,
+          "title": "Create healthier relationships",
+          "description": "Whether you're single, married (or any status in between), this journey will help you:\r\n👉🏽 Pause & reflect on your love life\r\n👉🏽 Understand what you desire in your relationships & partner\r\n👉🏽 Discover your values, love language & more",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 5
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 47,
+      "title": "Coping with social anxiety",
+      "ju_label": "coping-with-social-anxiety",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20231114105311.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052140.webp",
+      "ju_link": null,
+      "problems": [
+        "❤️ Relationships"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 49,
+          "title": "cope with social anxiety",
+          "description": "Start this journey & cope with social anxiety!\r\n\r\n👉🏽Understand your triggers and safety anchors\r\n👉🏽Learn coping mechanisms backed by experts\r\n👉🏽Manage your social anxiety over time",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 115,
+      "title": "Be an inclusive parent",
+      "ju_label": "be-an-inclusive-parent",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20230413133200.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20230413133201.webp",
+      "ju_link": null,
+      "problems": [
+        "🌈 LGBTQIA+"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 120,
+          "title": "🌈 Be an inclusive parent",
+          "description": "Support your child through their journey of self-discovery. In this journey, you will\r\n\r\n👉🏽 Learn more about the community\r\n👉🏽 Actionable ways to be an ally\r\n👉🏽 Build trust and boundaries with your child",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 86,
+      "title": "Homophobia & hate from loved ones",
+      "ju_label": "homophobia-hate-from-loved-ones",
+      "promo_text": "2 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220408134331.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060436.webp",
+      "ju_link": null,
+      "problems": [
+        "🌈 LGBTQIA+"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 88,
+          "title": "🌈 Homophobia from loved ones",
+          "description": "If you've experienced some form of homophobia and reactions from close family & friends, you're not alone. This journey will help you:\r\n\r\n👉🏽 Reflect on homophobia in a safe space\r\n👉🏽 Understand ways to build resilience",
+          "num_steps": 2,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "2 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 15,
+      "title": "Stop procrastinating",
+      "ju_label": "stop-procrastinating",
+      "promo_text": "5 sessions",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220304092217.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052219.webp",
+      "ju_link": null,
+      "problems": [
+        "💼 Work"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 17,
+          "title": "Stop procrastinating",
+          "description": "Start this journey today and never let procrastination stop you from your goals!\r\n👉🏽 Actionable concepts backed by science\r\n👉🏽 Bite-sized and interactive learning\r\n👉🏽 Designed with leading experts",
+          "num_steps": 5,
+          "day_completed": "no",
+          "completed_steps": 1
+        }
+      ],
+      "details": "v2",
+      "sessions": "5 sessions",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 165,
+      "title": "Navigating PMDD",
+      "ju_label": "navigating-pmdd",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20241002102508.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20241002102510.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 199,
+          "title": "Navigating PMDD",
+          "description": ".",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 169,
+      "title": "Performance anxiety around sex",
+      "ju_label": "performance-anxiety-around-sex",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20241109093958.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20241109094001.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 203,
+          "title": "Deal with performance anxiety",
+          "description": "",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 167,
+      "title": "Contraception & family planning",
+      "ju_label": "contraception-family-planning",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20241005100936.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20241005100939.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 201,
+          "title": "Contraception & family planning",
+          "description": "",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 168,
+      "title": "Navigate guilt & shame around sex",
+      "ju_label": "navigate-guilt-shame-around-sex",
+      "promo_text": "3 sessions",
+      "description": "7-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20241030130134.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20241030130136.webp",
+      "ju_link": null,
+      "problems": [
+        "🌻 Self-love",
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 202,
+          "title": "Guilt & shame around sex",
+          "description": "",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "7-10 mins"
+    },
+    {
+      "id": 30,
+      "title": "Change your attitude to failure",
+      "ju_label": "change-your-attitude-to-failure",
+      "promo_text": "3 sessions",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20210806113521.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052255.webp",
+      "ju_link": null,
+      "problems": [
+        "💼 Work"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 33,
+          "title": "Change your attitude to failure",
+          "description": "Don't let failure hold you back from your goals and desires!\r\n\r\n👉🏽 Understand what's holding you back \r\n👉🏽 Learn key mindset changes to help you\r\n👉🏽 Build resilience to bounce back in your life",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 1
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 45,
+      "title": "Dealing with loneliness",
+      "ju_label": "dealing-with-loneliness",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220107122650.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052338.webp",
+      "ju_link": null,
+      "problems": [
+        "🌻 Self-love"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 103,
+          "title": "Deal with loneliness",
+          "description": "We're sorry you're feeling lonely. We're here to help and be a safe space for you:\r\n\r\n👉🏽 Learn actionable ways to address your feelings\r\n👉🏽 Reframe your thoughts and fears",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 1
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 17,
+      "title": "Make your partner feel more loved",
+      "ju_label": "make-your-partner-feel-more-loved",
+      "promo_text": "7 days",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20210524072334.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052456.webp",
+      "ju_link": null,
+      "problems": [
+        "❤️ Relationships"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 19,
+          "title": "Make your partner feel loved",
+          "description": "Would you like to make your partner feel special? Start this journey today to expand your relationship!\r\n\r\n👉🏽Learn key emotional intelligence skills to help you \r\n👉🏽Bite-sized activities each day for you to practice\r\n👉🏽Find ways to mix things up in your relationship",
+          "num_steps": 7,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "7 days",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 12,
+      "title": "Get over a breakup",
+      "ju_label": "get-over-a-breakup",
+      "promo_text": "4 sessions",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20210324073902.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052719.webp",
+      "ju_link": null,
+      "problems": [
+        "❤️ Relationships"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 14,
+          "title": "Get over a breakup",
+          "description": "Move on from your ex and relationship & deal with your mind in a structured way\r\n👉🏽 Designed with relationship experts & psychologists\r\n👉🏽 Bite-sized and interactive learning\r\n👉🏽 A safe and non-judgemental space for you",
+          "num_steps": 4,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "4 sessions",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 48,
+      "title": "Dealing with a cheating partner",
+      "ju_label": "dealing-with-a-cheating-partner",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220921175415.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052749.webp",
+      "ju_link": null,
+      "problems": [
+        "❤️ Relationships"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 50,
+          "title": "Deal with a cheating partner",
+          "description": "We're sorry this happened to you and we're here to help you.\r\n👉🏽 Process your emotions and take your power back\r\n👉🏽 Figure out your next steps and practice self-care\r\n👉🏽 A safe and non-judgmental space for you",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 37,
+      "title": "Self-care on your period",
+      "ju_label": "self-care-on-your-period",
+      "promo_text": "4 sessions",
+      "description": "3-5 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20240208053856.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060501.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 40,
+          "title": "Self-care on your period",
+          "description": "Your body and mind need the most tender love and care from you when you’re on your period\r\n\r\n👉🏽 Understand ways to manage your pain better\r\n👉🏽 Make your wellbeing and comfort a priority",
+          "num_steps": 4,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "4 sessions",
+      "mins": "3-5 mins"
+    },
+    {
+      "id": 6,
+      "title": "Create a morning routine",
+      "ju_label": "create-a-morning-routine",
+      "promo_text": "7 days",
+      "description": "3-5 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220211180847.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422053108.webp",
+      "ju_link": null,
+      "problems": [
+        "🌻 Self-love"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 7,
+          "title": "7 days to a morning routine",
+          "description": "A consistent and healthy morning routine lays the foundation for your day and life!\r\n👉🏽 Actionable concepts backed by science\r\n👉🏽 Bite-sized and interactive learning\r\n👉🏽 Designed with leading experts",
+          "num_steps": 7,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "7 days",
+      "mins": "3-5 mins"
+    },
+    {
+      "id": 39,
+      "title": "Be more disciplined with money",
+      "ju_label": "be-more-disciplined-with-money",
+      "promo_text": "3 sessions",
+      "description": "3-5 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20240704104856.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422053231.webp",
+      "ju_link": null,
+      "problems": [
+        "💵 Finance"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 42,
+          "title": "Be more disciplined with money",
+          "description": "Don't let money stress you out!\r\n\r\n👉🏽 Reflect on your current income and expenditure\r\n👉🏽 Understand practical ways to save more money\r\n👉🏽 Learn mindful spending & other proven methods",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "3-5 mins"
+    },
+    {
+      "id": 46,
+      "title": "Deal with money anxiety",
+      "ju_label": "deal-with-money-anxiety",
+      "promo_text": "3 sessions",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://evl-prod-assets.sgp1.digitaloceanspaces.com/media/journey/thumb/20220207124312.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422054035.webp",
+      "ju_link": null,
+      "problems": [
+        "💵 Finance"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 48,
+          "title": "Overcome money anxiety",
+          "description": "Money isn't everything in life but it's often the root cause of a lot anxiety!\r\n👉🏽 Understand how money makes you feel\r\n👉🏽 Reframe your thoughts and beliefs\r\n👉🏽 Find ways to improve your situation",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-10 mins"
+    },
+    {
+      "id": 116,
+      "title": "Coming out at work",
+      "ju_label": "coming-out-at-work",
+      "promo_text": "3 sessions",
+      "description": "7-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20230414162606.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060822.webp",
+      "ju_link": null,
+      "problems": [
+        "🌈 LGBTQIA+"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 121,
+          "title": "🌈 Coming out at work",
+          "description": "Coming out at work can be extremely empowering yet emotionally hard. We're here for you\r\n\r\n👉🏽 Understand whether it's safe for you\r\n👉🏽 Think through how you can come out\r\n👉🏽 Process any anxiety and fear",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "7-10 mins"
+    },
+    {
+      "id": 162,
+      "title": "Navigate life with autism",
+      "ju_label": "navigate-life-with-autism",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20240403131806.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052848.webp",
+      "ju_link": null,
+      "problems": [
+        "🧠 Neurodiversity"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 196,
+          "title": "Navigate life with autism",
+          "description": "In collaboration with Akshay CM, learn more about how autism can affect people. In this journey, we will:\r\n\r\n👉🏽 Understand autism & the differences\r\n👉🏽 Reflect on your own experiences\r\n👉🏽 Learn actionable self-care techniques",
+          "num_steps": 3,
+          "day_completed": "yes",
+          "completed_steps": 4
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 161,
+      "title": "Explore neurodiversity",
+      "ju_label": "explore-neurodiversity",
+      "promo_text": "3 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20240315112037.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422052813.webp",
+      "ju_link": null,
+      "problems": [
+        "🧠 Neurodiversity"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 195,
+          "title": "Explore neurodiversity",
+          "description": "Do you want to learn about neurodiversity & how it works? In this journey, we will:\r\n\r\n👉🏽 Understand neurodiversity & neurodivergence\r\n👉🏽 Explore the differences in behavior\r\n👉🏽 Learn self-care techniques",
+          "num_steps": 3,
+          "day_completed": "no",
+          "completed_steps": 3
+        }
+      ],
+      "details": "v2",
+      "sessions": "3 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 121,
+      "title": "Understand sexual aftercare",
+      "ju_label": "understand-sexual-aftercare",
+      "promo_text": "2 sessions",
+      "description": "5-7 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20231114065823.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060540.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 127,
+          "title": "Understand sexual aftercare",
+          "description": "Aftercare is important for our self-care post any sexual intimacy\r\n\r\n👉🏽 Learn more about aftercare\r\n👉🏽 Understand its importance\r\n👉🏽 Create your own aftercare ritual",
+          "num_steps": 2,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "2 sessions",
+      "mins": "5-7 mins"
+    },
+    {
+      "id": 122,
+      "title": "Understand pleasure",
+      "ju_label": "understand-pleasure",
+      "promo_text": "2 sessions",
+      "description": "7-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Premium",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20230907062751.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060555.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 128,
+          "title": "Understand pleasure",
+          "description": "Pleasure means different things for different people.\r\n\r\n👉🏽 Learn about pleasure & pain\r\n👉🏽 Explore what sexual pleasure means to you\r\n👉🏽 Actionable ways to be safer",
+          "num_steps": 2,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "2 sessions",
+      "mins": "7-10 mins"
+    },
+    {
+      "id": 156,
+      "title": "Understand sexual anatomy",
+      "ju_label": "understand-sexual-anatomy",
+      "promo_text": "4 sessions",
+      "description": "5-10 mins",
+      "ju_type": "Single",
+      "ju_premium": "Free",
+      "num_days": 1,
+      "thumb_image": "https://prod-assets.evolveinc.in/media/journey/thumb/20231121183940.webp",
+      "cover_image": "https://prod-assets.evolveinc.in/media/journey/cover/20240422060618.webp",
+      "ju_link": null,
+      "problems": [
+        "🌸 Sexual health"
+      ],
+      "techniques": [],
+      "days": [
+        {
+          "id": 162,
+          "title": "Understand sexual anatomy",
+          "description": "In collaboration with Karishma Swarup, learn more about your own body and improve your sexual health.\r\n\r\n👉🏽Learn about gonads and genitalia\r\n👉🏽Explore the role of DNA & hormones\r\n👉🏽Understand its impact on your sexual health",
+          "num_steps": 4,
+          "day_completed": "no",
+          "completed_steps": 0
+        }
+      ],
+      "details": "v2",
+      "sessions": "4 sessions",
+      "mins": "5-10 mins"
+    }
+  ],
+  "total_pages": 3,
+  "premium_status": 1,
+  "problem_filter": [
+    {
+      "title": "🧠 Neurodiversity",
+      "id": 60
+    },
+    {
+      "title": "❤️ Relationships",
+      "id": 3
+    },
+    {
+      "title": "🌻 Self-love",
+      "id": 1
+    },
+    {
+      "title": "🌈 LGBTQIA+",
+      "id": 2
+    },
+    {
+      "title": "💼 Work",
+      "id": 8
+    },
+    {
+      "title": "💵 Finance",
+      "id": 9
+    },
+    {
+      "title": "🌸 Sexual health",
+      "id": 14
+    }
+  ]
+}
