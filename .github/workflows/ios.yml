@@ -31,7 +31,7 @@ jobs:
           xcodebuild -workspace FilterApp.xcworkspace \
                      -scheme "YourScheme" \
                      -sdk iphonesimulator \
-                     -destination 'platform=iOS Simulator,name=iPhone 14,OS=16.0' \
+                     -destination 'platform=iOS Simulator,name=iPhone,OS=latest' \
                      clean test
         env:
           CODE_SIGNING_ALLOWED: "NO"
