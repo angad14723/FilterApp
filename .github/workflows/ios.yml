@@ -31,7 +31,7 @@ jobs:
           xcodebuild -workspace FilterApp.xcworkspace \
                      -scheme "FilterApp" \
                      -sdk iphonesimulator \
-                     -destination 'platform=iOS Simulator,name=iPhone,OS=latest' \
+                     -destination 'platform=iOS Simulator,name=iPhone 16 Pro Max,OS=18.1' \
                      clean test
         env:
           CODE_SIGNING_ALLOWED: "NO"
