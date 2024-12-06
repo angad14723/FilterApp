@@ -56,8 +56,8 @@ class HomepageVM: ObservableObject {
             self.filters = localData?.problemFilter ?? []
             self.isLoading = false
             
-            print("data :: \(self.journeys.count)")
-            print("filters :: \(self.filters.count)")
+           // print("data :: \(self.journeys.count)")
+           // print("filters :: \(self.filters.count)")
             
             if self.filters.count > 0{
                 self.selectedItemId = self.filters[0].id
